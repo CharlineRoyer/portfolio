@@ -1,4 +1,4 @@
-# baseURL       = "https://charline-royer-nws.netlify.app/"
+baseURL       = "https://charline-royer-nws.netlify.app/"
 languageCode  = "fr-FR"
 title         = "Roxo | NWS portfolio starter theme"
 theme         = "roxo"
