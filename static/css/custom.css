@@ -1,0 +1,97 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ @font-face {
+    font-family: 'oxygen_monoregular';
+    src: url('oxygenmono-regular-webfont.woff2') format('woff2'),
+         url('oxygenmono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'oxygenbold';
+    src: url('oxygen-bold-webfont.woff2') format('woff2'),
+         url('oxygen-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'oxygenlight';
+    src: url('oxygen-light-webfont.woff2') format('woff2'),
+         url('oxygen-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'oxygenregular';
+    src: url('oxygen-regular-webfont.woff2') format('woff2'),
+         url('oxygen-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+ 
+ .btn-primary{
+     background-color: black;
+     color: white;
+ }
+
+ .site-navigation .nav-item .nav-link{
+     color : #ba1159;
+ }
+
+ .logo2{
+    height: 10vh;
+    width: 150px;
+ }
+
+
+.site-navigation .navbar-brand img {
+    max-width: 300px;
+}
+
+.site-hero{
+    background-image: none;
+}
+
+
+
+
+ h1{
+    font-family: 'oxygenbold';
+} 
+
+.site-navigation .nav-item .nav-link {
+    font-family: 'oxygenbold';
+}
+
+.site-navigation .nav-item .nav-link:hover {
+    color: black;
+}
+
+img[alt="moodboard"]{
+   height: 350px;
+    }
+
+img[alt="logo"]{
+width: 200px;
+}
+h2{
+    font-size: 20px;
+    margin: 0 auto;
+}
