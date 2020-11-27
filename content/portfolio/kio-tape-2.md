@@ -2,7 +2,7 @@
 title: "DéjàVu"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/dejavu2.png"
 category: ["PRODUCT LABEL"]
 project_images: []
 ---
@@ -15,9 +15,13 @@ Nous avons donc établi un moodboard, un logo et une vidéo de présentation.
 
 Moodboard <br>
 -
-![moodboard](/images/moodboard.png)
+![moodboard](/images/projects/moodboard2.png)
 
 Logo
 -
 
-![logo](/images/dejavu2.png)
+![logo](/images/projects/dejavu2.png)
+
+Identite Visuelle
+-
+![idv](/images/projects/idv.png)

@@ -91,6 +91,11 @@ img[alt="moodboard"]{
 img[alt="logo"]{
 width: 200px;
 }
+
+img[alt="idv"]{
+    width: 20px;
+}
+
 h2{
     font-size: 20px;
     margin: 0 auto;
