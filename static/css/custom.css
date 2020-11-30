@@ -63,11 +63,32 @@ a:hover{
      background-color: black;
      color: white;
  }
+ .btn-primary:hover{
+     background-color:#ba1159 ;
+ }
 
+ .btn-secondary{
+    background-color: #ba1159;
+    color: white;
+}
+.btn-secondary:hover{
+    background-color: black;
+}
  .site-navigation .nav-item .nav-link{
      color : #ba1159;
  }
 
+ .site-footer {
+    background: lightgray;
+
+}
+.logo_footer{
+    width: 100px;
+}
+
+.site-footer a, .site-footer li a, .site-footer p, .site-footer h5{
+    color: black;
+}
  .logo2{
     height: 10vh;
     width: 150px;
@@ -119,7 +140,23 @@ img[alt="site"]{
 img[alt="campagne"]{
     width: 550px;
 }
+
+img[alt="chouette"]{
+    width: 350px;
+}
+
+img[alt="renard"]{
+    width: 350px;
+}
 h2{
     font-size: 20px;
     margin: 0 auto;
+}
+.site-project-item-thumb img{
+    height: 50vh;
+    margin-bottom: 200px;
+}
+
+.site-project-header-content h1 span{
+    color :  #ba1159;
 }
