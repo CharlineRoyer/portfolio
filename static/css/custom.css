@@ -44,8 +44,20 @@
 
 }
 
+h1{
+    font-family: 'oxygenbold';
+} 
 
+h2{
+    text-decoration: underline;} 
+a{
+    text-decoration: none;
+    color:#ba1159
+}
 
+a:hover{
+    color: #ba1159
+}
  
  .btn-primary{
      background-color: black;
@@ -66,9 +78,7 @@
     max-width: 300px;
 }
 
- h1{
-    font-family: 'oxygenbold';
-} 
+
 
 .site-navigation .nav-item .nav-link {
     font-family: 'oxygenbold';
@@ -90,6 +100,25 @@ img[alt="idv"]{
     width: 500px;
 }
 
+img[alt="mockup"]{
+    width: 350px;
+}
+
+img[alt="facebook"]{
+    width: 350px;
+}
+
+img[alt="wireframe"]{
+    width: 350px;
+}
+
+img[alt="site"]{
+    width: 350px;
+}
+
+img[alt="campagne"]{
+    width: 550px;
+}
 h2{
     font-size: 20px;
     margin: 0 auto;
