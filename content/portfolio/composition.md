@@ -16,7 +16,7 @@ Comme premier exercice je devais réalisé une chouette.
 
 &nbsp;
 
-Grâce aux cours que nous a donné [Sarah](https://www.instagram.com/sarahkugeldesign/?hl=fr) j'ai pu me lancer dans la réalisation de mes propres dessins
+Grâce aux cours que nous a donné [Sarah Kugel](https://www.instagram.com/sarahkugeldesign/?hl=fr) j'ai pu me lancer dans la réalisation de mes propres dessins
 
 ## Renard
 
