@@ -48,12 +48,17 @@ h1{
     font-family: 'oxygenbold';
     color: black;
 } 
+p{
+    font-family:'oxygenlight' ;
+}
 
 h2{
     text-decoration: underline;
-color: black;} 
+    font-family: 'oxygenregular';
+    color: black;} 
 a{
     text-decoration: none;
+    font-family: 'oxygenbold';
     color:#ba1159
 }
 

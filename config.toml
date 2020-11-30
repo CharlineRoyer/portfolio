@@ -99,17 +99,17 @@ summarylength = 25
         title   = "Réseaux sociaux"
         [[params.footer.social.link]]
           name = "GitHub"
-          url  = "#"
+          url  = "https://github.com/CharlineRoyer"
         [[params.footer.social.link]]
           name = "Linkedin"
-          url  = "#"
+          url  = "https://www.linkedin.com/in/charline-royer/"
         [[params.footer.social.link]]
           name = "Instagram"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Facebook"
+          name = ""
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "Ce que nous faisons:"
+        title       = "Ce que je fais :"
         description = "Développement web<br>Design"
