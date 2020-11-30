@@ -146,6 +146,7 @@ img[alt="site"]{
 
 img[alt="campagne"]{
     width: 550px;
+    border : 0.5px rgb(189, 188, 188) solid
 }
 
 img[alt="chouette"]{
