@@ -66,13 +66,6 @@
     max-width: 300px;
 }
 
-.site-hero{
-    background-image: none;
-}
-
-
-
-
  h1{
     font-family: 'oxygenbold';
 } 
@@ -94,7 +87,7 @@ width: 200px;
 }
 
 img[alt="idv"]{
-    width: 20px;
+    width: 500px;
 }
 
 h2{

@@ -15,10 +15,7 @@ Nous avons donc établi un moodboard, un logo et une vidéo de présentation.
 
 
 
-Logo
--
 
-![logo](/images/projects/dejavu2.png)
 
 Moodboard <br>
 -
@@ -26,7 +23,12 @@ Moodboard <br>
 ![moodboard](/images/projects/moodboard2.png)
 
 
+Logo
+-
 
-Identite Visuelle
+![logo](/images/projects/dejavu2.png)
+
+
+Identite Visuelle <br>
 -
 ![idv](/images/projects/idv.png)
