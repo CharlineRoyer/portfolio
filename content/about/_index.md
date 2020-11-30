@@ -1,11 +1,15 @@
 ---
-title: "About Us"
+title: ""
 date: 2018-07-12T18:19:33+06:00
-heading : "Ensemble, construisons des projets web qui vous ressemblent & correspondent à vos besoins"
-description : "Bonjour, je suis Raphael Sanchez, artisan web basé à Rouen, entre Caen et Paris"
+heading : "Développeuse web à Rouen et Paris"
+description : "Langages : HTML - CSS - PHP"
 expertise_title: "Expertise"
 expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
+## Quelques mots à propos de moi.
+
+&nbsp;
+
 Travaillant à l’inverse de la majorité de l’humanité, c’est à dire seulement durant les vacances scolaires, j’avais plein de temps libre à occuper devant moi. 
 
 J’étais dans une période assez créative. J’ai repris le dessin sur tablette pour essayer de dessiner des personnages. Je n’arrivais pas à aller me coucher sans que mon dessin soit fini. Souvent, l’inspiration me venait à 21h et je finissais vers 9h du matin.

@@ -46,10 +46,12 @@
 
 h1{
     font-family: 'oxygenbold';
+    color: black;
 } 
 
 h2{
-    text-decoration: underline;} 
+    text-decoration: underline;
+color: black;} 
 a{
     text-decoration: none;
     color:#ba1159
@@ -79,11 +81,11 @@ a:hover{
  }
 
  .site-footer {
-    background: lightgray;
+    background: rgb(235, 233, 233);
 
 }
 .logo_footer{
-    width: 100px;
+    width: 200px;
 }
 
 .site-footer a, .site-footer li a, .site-footer p, .site-footer h5{
